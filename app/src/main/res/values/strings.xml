@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">gChAT</string>
+
+    TODO
+    Email
+    <string name="hint">hint</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="register">Register</string>
+    Email
+    Password
+    TODO
+    <string name="background">TODO</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirmpassword">ConfirmPassword</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="error_invalid_password" />
+    <string name="error_field_required" />
+    <string name="error_invalid_email" />
+    TODO
+    <string name="imageButton">TODO</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="action_send">Send</string>
+    <string name="prompt_msg">Prompt_msg</string>
+    <string name="name">Name</string>
+    <string name="type_your_message">Type Your Message....</string>
+    <string name="todo">TODO</string>
+    <string name="type_a_mssage">Type a Mesage</string>
+    Hello
+    <string name="hello">Hello</string>
+    <string name="type_a_mesage">type_a_message</string>
+</resources>

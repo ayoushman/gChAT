@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1060226748307",
+    "firebase_url": "https://gchat-dd132.firebaseio.com",
+    "project_id": "gchat-dd132",
+    "storage_bucket": "gchat-dd132.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060226748307:android:110426adb461e76d38a266",
+        "android_client_info": {
+          "package_name": "com.Ayoushman.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060226748307-9513tobs0jv8qs6h9jr7ejtigm3d6bap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNMRc28wfLRQixUGlv_Cvss-UmtwWbETw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060226748307-9513tobs0jv8qs6h9jr7ejtigm3d6bap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
